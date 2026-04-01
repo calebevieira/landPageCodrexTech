@@ -1,0 +1,7 @@
+- [ ] Extrair e revisar o conteúdo enviado em `page_content.zip`
+- [ ] Analisar a referência visual de `https://specifyapp.com/?ref=landingfolio`
+- [ ] Definir a nova direção visual e estrutural da landing page Codrex
+- [ ] Adaptar e hospedar as duas imagens anexadas para uso no projeto
+- [ ] Implementar o novo layout e estilo no projeto web
+- [ ] Validar a responsividade e a fidelidade ao novo direcionamento
+- [ ] Entregar a versão atualizada ao usuário
